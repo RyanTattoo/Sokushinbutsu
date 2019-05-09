@@ -1,16 +1,16 @@
 # Sokushinbutsu
 
 
-* installation tool :
+installation tool :
 
- - pkg install python2 
- - pkg install git 
- - git clone https://github.com/RyanTattoo/Sokushinbutsu 
+ * pkg install python2 
+ * pkg install git 
+ * git clone https://github.com/RyanTattoo/Sokushinbutsu 
 
-* runing tool :
+runing tool :
 
-cd Sokushinbutsu
-python2 Sokushinbutsu.py
+ * cd Sokushinbutsu
+ * python2 Sokushinbutsu.py
 
 
 
