@@ -12,11 +12,11 @@ y = '\033[33;1m'
 
 system('clear')
 print g + "#########################################"
-print g + "# Author : 3XP3T4S1                     #"
-print g + "# Tools : Delete Data                   #"
-print g + "# RyanTattoo hanya memilah              #"
-print g + "# Thanks to 3XP3T4S1                    #"
-print g + "# Thanks all member Jakarta Cyber Army  #"
+print g + "# Welcome to Hell                       #"
+print g + "# Don't Crying                          #"
+print g + "# Don't Regret                          #"
+print g + "# Welcome to The New Device             #"
+print g + "# RyanTattoo Apologize                  #"
 print g + "#########################################"
 
 system('clear')
